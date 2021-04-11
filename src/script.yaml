@@ -605,15 +605,13 @@
   ja: きみたちには いつもおどろかされる<line>びじんしまいの すえっこだったね<line><name> きみまでどうしたんだ?<wait><end>
   literal: I’m always startled by you, the beautiful sisters. You are the youngest one, Wendy. Why do you want to join as well?
   en: |
-    I’m always<line>
-    startled by you,<line>
-    the beautiful<line>
-    sisters.<wait more><line>
-    You are the<line>
-    youngest one,<line>
-    <name>. Why do you<line>
-    want to join as<line>
-    well?<wait><end>
+    You beautiful<line>
+    sisters never fail<line>
+    to surprise me,<delay 01><line>
+    <name>.<wait more><line>
+    As the youngest,<line>
+    why do you want<line>
+    to join?<wait><end>
 
 - index: 345
   character: Wendy
@@ -621,12 +619,11 @@
   literal: Tao and the others are always boasting about it, so of course it’s because I want to be a warrior of light! This is my chance!
   en: |
     Tao and the others<line>
-    are always<line>
-    boasting about it,<wait more><line>
-    so of course it’s<line>
-    because I want to<line>
-    be a warrior of<line>
-    light! This is my<line>
+    always boast about<line>
+    it, so of course I<delay 01><line>
+    want to become a<line>
+    warrior of light!<wait more><line>
+    This must be my<line>
     chance!<wait><end>
 
 - index: 346
@@ -649,7 +646,7 @@
     Yes, father! Ah, I<line>
     mean, Captain Ken!<line>
     I’ve made up my<line>
-    mind, please leave<line>
+    mind. Please leave<line>
     it to us!<wait><end>
 
 - index: 348
@@ -657,23 +654,25 @@
   ja: そして きみは・・・ちちおやを<line>えんせいしきかんのラグたいちょうを<line>たすけにいくと そういうわけだな<wait more><end>
   literal: And you… wish to rescue your father, Lug, the commander of the expedition force, right?
   en: |
-    And you... <wait more><line>
-    wish to rescue<line>
-    your father, Lug,<line>
+    And you...<wait more><line>
+    I suppose you wish<line>
+    to rescue your<line>
+    father, Lug,<delay 01><line>
     the commander of<line>
     the expedition<line>
-    force, right?<wait more><end>
+    force.<wait more><end>
 
 - index: 349
   character: Ken
   ja: <name>! リ-ダ-は だれなんだ<line>おまえたちだけのわるだくみでは<line>ないことぐらいは おみとおしだ<wait><end>
   literal: Ruce! Who will be the leader? I don’t think you guys came up with this on your own.
   en: |
-    <name>! Who will be<line>
-    the leader? I<line>
-    don’t think you<line>
-    guys came up with<line>
-    this on your own.<wait><end>
+    <name>!<line>
+    Who will be the<line>
+    leader?<wait more><line>
+    I doubt you came<line>
+    up with this plan<line>
+    on your own.<wait><end>
 
 - index: 350
   character: Ruce
@@ -686,27 +685,29 @@
   ja: お-いっ ちょっと たのむよ<line>ばれちまった でてきてくれよ<wait><end>
   literal: Hey, would you mind coming out? They’ve found it out!
   en: |
-    Hey, would you<line>
-    mind coming out?<line>
-    They’ve found it<line>
-    out!<wait><end>
+    Hey! Would you<line>
+    mind coming out?<wait more><line>
+    They’ve figured it<line>
+    out.<wait><end>
 
 - index: 352
   character: Ken
   ja: きっ きみは!<delay 01> あなたはマックス?<wait><end>
   literal: You! Are you Max?
   en: |
-    You! Are you Max?<wait><end>
+    Y-<delay 01>you!<delay 01><line>
+    Are you...<delay 01>Max?<wait><end>
 
 - index: 353
   character: Ken
   ja: いや<delay 01>・<delay 01>・<delay 01> にているが<delay 01>・<delay 01>・<line>ちがうようだ<wait><end>
   literal: Nope, you look alike, but… I’m wrong it seems.
   en: |
-    Nope, you look<line>
-    alike, but<delay 01>.<delay 01>.<delay 01>.<delay 01><line>
-    I’m wrong, it<line>
-    seems.<wait><end>
+    No<delay 01>.<delay 01>.<delay 01>.<delay 01><line>
+    You resemble him<line>
+    but<delay 01>.<delay 01>.<delay 01>.<delay 01><line>
+    It seems I'm<line>
+    mistaken.<wait><end>
 
 - index: 354
   character: Ruce
@@ -715,33 +716,39 @@
   en: |
     Don’t startle me<line>
     like that!<wait more><line>
-    Thought he was the<line>
-    leader of the<line>
+    For a moment I<line>
+    thought he was the<line>
+    leader of the<delay 01><line>
     legendary warriors<line>
-    of light for a<line>
-    moment.<wait more><end>
+    of Light.<wait more><end>
 
 - index: 355
   character: Ruce
   ja: かれは プロンプトの<party leader>!<line>こだいじんのくにから しょこくに<line>しゅぎょうのたびをしているそうです<wait more><end>
   literal: He is Nick from Prompt, he said he was traveling around to train in many countries.
   en: |
-    He is <party leader><line>
-    from Prompt,<wait more><line>
-    he said he was<line>
-    traveling around<line>
-    to train in many<line>
-    countries.<wait more><end>
+    Rather, he is<line>
+    <party leader>,<line>
+    from Prompt.<wait more><line>
+    Since leaving the<line>
+    ancients’ land, he<line>
+    has been traveling<delay 01><line>
+    to various<line>
+    countries to<line>
+    train.<wait more><end>
 
 - index: 356
   character: Ruce
   ja: ぼくらが はなしあいをしているとき<line>くちぞえしてくれたのが かれでした<line>おかげで けっしんがつきました!<wait more><end>
   literal: He was the one who encouraged us when we were discussing this endeavor.
   en: |
-    He was the one who<line>
-    encouraged us when<line>
-    we were discussing<line>
-    this endeavor.<wait more><end>
+    When we were<line>
+    discussing this<line>
+    endeavor,<delay 01><line>
+    he encouraged us<line>
+    to go.<wait more><line>
+    Thus, we’ve come<line>
+    to a resolution!<wait more><end>
 
 - index: 357
   character: Ruce
@@ -749,7 +756,7 @@
   literal: Please, let us go on this journey.
   en: |
     Please, let us go<line>
-    on this journey.<wait><end>
+    on this journey!<wait><end>
 
 - index: 358
   character: Lowe
@@ -765,8 +772,9 @@
   ja: そのかわり わたしもまいります<line>そして サイプレスこくのやつらに<line>ひとあわふかせてやりましょうぞ!<wait><end>
   literal: But I shall also accompany you. Let’s go and give Cypress a surprise!
   en: |
-    But I shall also<line>
-    accompany you.<line>
+    However, I shall<line>
+    also accompany<line>
+    you.<wait more><line>
     Let’s go and give<line>
     Cypress a<line>
     surprise!<wait><end>
@@ -777,10 +785,9 @@
   literal: Nick’s force went on a voyage from the port towards Cypress.
   # Will need to reformat this if names get longer.
   en: |
-    <party leader>’s force went<line>
-    on a voyage from<line>
-    the port towards<line>
-    Cypress.<wait more><end>
+    <party leader>’s force<line>
+    left port on a<line>
+    voyage to Cypress.<wait more><end>
 
 - index: 361
   character: Narration
@@ -788,9 +795,9 @@
   literal: What awaited them… was a tough and long trip.
   en: |
     What awaited<line>
-    them... was a<line>
-    tough and long<line>
-    trip.<wait><end>
+    them...<delay 01><delay 01><line>
+    was a long and<line>
+    difficult journey.<wait><end>
 
 
 
