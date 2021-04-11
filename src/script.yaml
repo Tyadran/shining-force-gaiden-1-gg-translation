@@ -589,15 +589,15 @@
   literal: You mean Uncle Gong? I’ve heard rumors about you, a very brave person you were. I’ve joined this group as I thought I’d be of use in place of my uncle. My name is Sig, nice to meet you.
   en: |
     You mean Uncle<line>
-    Gong? I’ve heard<line>
-    rumors about you,<line>
-    a very brave<line>
-    person you were.<wait more><line>
-    I’ve joined this<line>
-    group as I thought<line>
-    I’d be of use in<line>
-    place of my uncle.<wait more><line>
-    My name is <name>,<line>
+    Gong?<delay 01><line>
+    I’ve heard many<line>
+    tales of your<line>
+    bravery.<wait more><line>
+    I've joined this <line>
+    group to help in<line>
+    my uncle’s place.<wait more><line>
+    You can call me<line>
+    <name>. It’s<line>
     nice to meet you.<wait><end>
 
 - index: 344
